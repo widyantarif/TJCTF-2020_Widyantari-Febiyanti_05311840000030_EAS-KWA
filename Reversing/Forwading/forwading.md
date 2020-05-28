@@ -10,4 +10,4 @@ It can't be that hard... right?
 2. mencari flag dan menemukannya
 
 # Flag
-tjctf{just_g3tt1n9_st4rt3d}
+```tjctf{just_g3tt1n9_st4rt3d}```
