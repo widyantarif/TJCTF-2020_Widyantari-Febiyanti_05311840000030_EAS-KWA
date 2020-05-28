@@ -22,7 +22,7 @@ Can you figure out how to [cheat](https://gamer_w.tjctf.org/) the system? Grab h
 <img width="691" alt="lv 3" src="https://user-images.githubusercontent.com/55181778/83103923-e3505580-a0e1-11ea-8549-783a646b6b0e.png">
 9. Level 4 boss tersebut akan ter-upgrade dan memiliki machine gun yang dapat menembak banyak peluru hijau sekaligus. Pada level inilah saatnya menggunakan cheat. 
 <img width="688" alt="lv 4" src="https://user-images.githubusercontent.com/55181778/83103925-e51a1900-a0e1-11ea-9d2e-433935a428f9.png">
-10. Dengan menggunakan [Cetus](https://github.com/Qwokka/Cetus), ubah total hp dari pemain (kita/user). Kode untuk hp pemain adalah ```0x2112f1c```. 
+10. Dengan menggunakan Cetus, ubah total hp dari pemain (kita/user). Kode untuk hp pemain adalah ```0x2112f1c```. 
 
 11. Bookmark dan ubah valuenya menjadi banyak supaya tidak mati-mati saat terkena tembakan hijau.
 
